@@ -1,4 +1,4 @@
-# SpellChecker ReadMe
+# SixDegrees ReadMe
 1. Person.java:
 - My public Person was created to be my constructor method.
 - In my Person with the parameter String stringName, it creates a constructor for the global variable string name.
